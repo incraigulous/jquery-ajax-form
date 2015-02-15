@@ -1,10 +1,10 @@
 # jQuery Ajax Form
 Ajax based form processing. Parses JSON responses for common actions like redirects, DOM updates or alerts. Requires [class.js](https://classjs.readthedocs.org/en/latest/) which is included in the bower_components folder if you're not using Bower.
 
-Json responses are parsed with [https://github.com/incraigulous/json-processor](Json Processor), allowing you to manipulate dom elements via keyword hooks in ajax responses. Check out the [https://github.com/incraigulous/json-processor](Json Processor Readme) for documentation.
+Json responses are parsed with [Json Processor](https://github.com/incraigulous/json-processor), allowing you to manipulate dom elements via keyword hooks in ajax responses. Check out the [Json Processor Readme](https://github.com/incraigulous/json-processor) for documentation.
 
 ##Demo
-Check out the demo here: [https://cdn.rawgit.com/incraigulous/jquery-repeater/master/demo.html](https://cdn.rawgit.com/incraigulous/jquery-repeater/master/demo.html)
+Check out the demo here: [https://cdn.rawgit.com/incraigulous/jquery-ajax-form/master/demo.html](https://cdn.rawgit.com/incraigulous/jquery-ajax-form/master/demo.html)
 
 ##How to use it
 Instantiate a new AjaxForm class and pass in your element. You can also pass an options object as your second parameter but this is optional.
