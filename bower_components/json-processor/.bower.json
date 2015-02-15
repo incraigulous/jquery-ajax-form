@@ -1,0 +1,31 @@
+{
+  "name": "JSON Processor",
+  "version": "0.0.4",
+  "homepage": "https://github.com/incraigulous/json-processor",
+  "authors": [
+    "Craig Wann <craig@churchonthemove.com>"
+  ],
+  "description": "Parses JSON to automagically handle common post-request actions like adding/removing elements, altering element properties, injecting HTML, redirecting to a new page, and making new AJAX requests.",
+  "main": "jquery.json-processor.js",
+  "keywords": [
+    "jquery",
+    "json",
+    "ajax",
+    "processor",
+    "dom"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.1"
+  },
+  "_release": "0.0.4",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.4",
+    "commit": "79634c86d1c52714a0738cabea48648d12a08f78"
+  },
+  "_source": "git://github.com/incraigulous/json-processor.git",
+  "_target": "~0.0.4",
+  "_originalSource": "json-processor",
+  "_direct": true
+}

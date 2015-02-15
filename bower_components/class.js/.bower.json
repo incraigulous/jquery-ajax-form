@@ -1,0 +1,30 @@
+{
+  "name": "class.js",
+  "main": "src/class.js",
+  "version": "1.0.1",
+  "ignore": [
+    "docs",
+    "tests",
+    ".gitignore",
+    "*.rst",
+    "*.html"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "class",
+    "classjs",
+    "javascript",
+    "library"
+  ],
+  "homepage": "https://github.com/incraigulous/classjs",
+  "_release": "1.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.0.1",
+    "commit": "23e3e9c826b0e35e994cd99afb63d5e6e7d9eaca"
+  },
+  "_source": "https://github.com/incraigulous/classjs.git",
+  "_target": "~1.0.0",
+  "_originalSource": "class.js"
+}
